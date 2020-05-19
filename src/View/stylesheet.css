@@ -1,0 +1,87 @@
+.parent {
+    -fx-background-color:transparent;
+}
+.pane {
+    -fx-background-color:#FFFFFF;
+}
+.trans-btn-white-border {
+    -fx-background-color:transparent;
+    -fx-background-radius:5px;
+    -fx-border-color:#cccccc;
+    -fx-border-radius:5px;
+    -fx-border-witdth:1px;
+}
+.white-pane {
+    -fx-background-color:#FFFFFF;
+}
+.tf-box {
+    -fx-background-color:transparent;
+    -fx-border-color:#DEDEE4;
+    -fx-border-width:0px 0px 1px 0px;
+}
+.tf {
+    -fx-background-color:transparent;
+}
+.pink-btn {
+    -fx-background-color:#FF3030;
+    -fx-background-radius:20px;
+    -fx-text-fill:#FFFFFF;
+}
+
+.parent {
+    -fx-background-color:transparent;
+}
+
+/*Hiệu ứng trong splash screen*/
+.login_splash_screen {
+    -fx-background-color : #e9eaec;
+}
+.background {
+    -fx-background-color: transparent;
+}
+.menu_button {
+    -fx-background-color: white;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 9pt;
+    -fx-text-fill: black;
+    -fx-text-stroke: 3em;
+}
+/*Menu button dọc*/
+.menu_button_vertical:hover {
+    -fx-background-color : #ffffff;
+    -fx-border-width: 0px 0px 3px 0px;
+    -fx-border-color:#ff5757;
+    
+}
+
+/*Menu button ngang*/
+.menu_button_horizontal:hover {
+    -fx-background-color : #ffffff;
+    -fx-border-width: 0px 0px 5px 0px;
+    -fx-border-color:#ff5757;
+}
+
+.text-area .content {
+    -fx-background-color: #575758;
+}
+
+
+.default-color0.chart-series-line{
+    -fx-stroke: #29B6F6;}
+.default-color1.chart-series-line{
+    -fx-stroke: #5E35B1;}
+.default-color2.chart-series-line{
+    -fx-stroke: #EC407A;}
+
+.default-color0.chart-line-symbol{
+    -fx-background-color: #29B6F6, #ffffff;
+
+}
+.default-color1.chart-line-symbol{
+    -fx-background-color: #5E35B1, #ffffff;
+
+}
+.default-color2.chart-line-symbol{
+    -fx-background-color: #EC407A, #ffffff;
+
+}
